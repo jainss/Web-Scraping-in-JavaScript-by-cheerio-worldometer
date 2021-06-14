@@ -1,0 +1,27 @@
+/* Element selector */
+p{
+    color: red;
+}
+
+ /* Desendent selector */
+div ol li{
+    color: blue;
+}
+
+/* children selector */
+div p span{
+    color: chartreuse;
+}
+
+/* class selector */
+.some-class{
+    color: pink;
+}
+
+
+/* atribute selector */
+button[value=take22]{
+    color: red;
+}
+
+
